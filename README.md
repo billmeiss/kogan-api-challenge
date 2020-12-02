@@ -10,7 +10,7 @@ You must have yarn installed to run this project locally. Alternatively you can 
 To run locally, please clone and install the repo using:
 ```bash
 git clone https://github.com/billmeiss/kogan-api-challenge.git
-cd <dir>
+cd kogan-api-challenge
 yarn install
 yarn dev
 ```
