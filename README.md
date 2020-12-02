@@ -6,7 +6,7 @@ The project was coded in JavaScript and utilised the framework Next.js to create
 
 ## Configuration
 
-You must have yarn installed to run this project locally. Alternatively you can review the code from the repo and view a live demo at 
+You must have yarn installed to run this project locally. Alternatively you can review the code from the repo and view a live demo at https://kogan-api-challenge.vercel.app/
 
 ## Getting Started
 
